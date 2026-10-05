@@ -1,5 +1,4 @@
-# HW Cloud 04 — Yandex Cloud: MySQL и Kubernetes
-
+# Кластеры. Ресурсы под управлением облачных провайдеров
 
 ## 1. MySQL
 
@@ -293,3 +292,18 @@ modules/phpmyadmin
 - Kubernetes Secret;
 - Deployment;
 - Service типа `LoadBalancer`.
+
+
+## Кластер баз данных MySQL
+<img width="1760" height="930" alt="2" src="https://github.com/user-attachments/assets/85553db4-4928-4c40-9cd4-b087ee3561e3" />
+
+<img width="1829" height="620" alt="3" src="https://github.com/user-attachments/assets/aad9e61a-aadd-4bf5-8756-5fcc2b3422fd" />
+
+<img width="1813" height="479" alt="4" src="https://github.com/user-attachments/assets/eb1d742c-0e75-4a1d-a8de-ab0471ec5066" />
+
+<img width="1813" height="438" alt="5" src="https://github.com/user-attachments/assets/4dff05ef-85f1-478a-b55e-c1e3bb1746c2" />
+
+## Кластер Kubernetes
+
+<img width="1906" height="1596" alt="7" src="https://github.com/user-attachments/assets/0188b9d2-f231-4441-b7ea-5a74d36f0cdf" />
+
